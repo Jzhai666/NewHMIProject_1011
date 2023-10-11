@@ -29,13 +29,5 @@ Project:
    Uri: 'urn:FTOptix:NativeUI'
    Module: FTOptix.NativeUI
    Version: 2.0
-  7:
-   Uri: 'urn:FTOptix:CommunicationDriver'
-   Module: FTOptix.CommunicationDriver
-   Version: 2.0
-  8:
-   Uri: 'urn:FTOptix:RAEtherNetIP'
-   Module: FTOptix.RAEtherNetIP
-   Version: 2.0
  Nodes:
  - File: Nodes/NewHMIProject_1011.yaml

@@ -15,13 +15,4 @@ Project:
    Uri: 'urn:FTOptix:CoreBase'
    Module: FTOptix.CoreBase
    Version: 2.1
-  4:
-   Uri: 'urn:FTOptix:TagImporter'
-   Module: FTOptix.TagImporter
-   Version: 1.0
-  5:
-   Uri: 'urn:FTOptix:RAEtherNetIPTagImporter'
-   Module: FTOptix.RAEtherNetIPTagImporter
-   Version: 1.0
- Nodes:
- - File: DesignTimeNodes/CommDrivers/RAEtherNet_IPDriver1/RAEtherNet_IPStation1/TagImporter.yaml
+ Nodes: []

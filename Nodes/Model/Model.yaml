@@ -1,7 +1,4 @@
 Name: Model
 Type: ModelCategoryFolder
 Children:
-- Name: Variable1
-  Type: BaseDataVariableType
-  DataType: Int32
-  Value: 0
+- File: Folder1/Folder1.yaml
